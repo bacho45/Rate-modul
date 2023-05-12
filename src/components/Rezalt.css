@@ -1,0 +1,8 @@
+.rezalt {
+    color: orange;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
